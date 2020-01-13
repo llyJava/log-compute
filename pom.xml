@@ -314,7 +314,7 @@ under the License.
 
 							<transformers>
 								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>com.xiaoxiang.flink.Launcher</mainClass>
+									<mainClass>com.luoliyin.flink.Launcher</mainClass>
 								</transformer>
 							</transformers>
 
